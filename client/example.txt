@@ -1,0 +1,2 @@
+GET capture.png
+POST test1.html
